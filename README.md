@@ -16,12 +16,12 @@
 ## Instalasi
 ### Instal/clone proyek
 ```bash
-git clone https://github.com/danitechid/wabot-nodejs.git
+git clone https://github.com/ikyalwaysgood/IkyOfficial-Bot
 ```
 
 ### Pimdah Direktori (CD)
 ```bash
-cd wabot-nodejs
+cd IkyOfficial-Bot
 ```
 
 ### MongoDb
