@@ -23,21 +23,21 @@
 module.exports = {
   session_folder_name: '.session',
   prefix: '.',
-  image_url: 'https://telegra.ph/file/f0fa86144d97805672ec9.jpg',
-  audio_url: 'https://cdn.danitechno.com/audio/dj-joanna-breakbeat.mp3',
+  image_url: 'https://cdn.btch.bz/file/06e8d93a5831ce577b93e.jpg',
+  audio_url: 'https://file.btch.bz/file/fi5y8fhhrbfyn4ok1ptk.mp3',
   public_mode: true,
   auto_read: true,
-  mongodb_uri: 'Your_MongoDb_URI', // Register here: https://mongodb.com/#sign-up
+  mongodb_uri: 'mongodb+srv://ikyalwaysgood16:t7iuCojOAwxOj0t7@cluster0.89mssax.mongodb.net/?retryWrites=true&w=majority', // Register here: https://mongodb.com/#sign-up
   api: {
     url: 'https://api.danitechno.com',
-    key: 'Your_API_key' // Register here: https://daniapi.my.id/#sign-up
+    key: 'danikey' // Register here: https://daniapi.my.id/#sign-up
   },
   bot: {
-    name: 'Bot Name'
+    name: 'Kιɳα Bσƚ'
   },
   owner: {
-    name: ["Owner Name"],
-    number: ["628xxxx"]
+    name: ["Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ"],
+    number: ["6285794908894"]
   },
   daily_limit: {
     free: 100,
